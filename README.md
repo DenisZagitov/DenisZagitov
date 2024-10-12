@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Platform for EdTech**
+- 🔭 I’m currently working on **Data Factory**
 
 - 🌱 I’m currently learning **large language models**
 
 - 👯 I’m looking to collaborate on **open source data management tools**
-
-- 🤝 I’m looking for help with **Data Vault 2.0**
 
 - 👨‍💻 All of my projects are available at [https://t.me/deniszagitov](https://t.me/deniszagitov)
 
