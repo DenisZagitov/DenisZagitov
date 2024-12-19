@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Zagitov</h1>
-<h3 align="center">A passionate data architect from Russia</h3>
+<h3 align="center">A passionate data architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denis-mrd&label=Profile%20views&color=0e75b6&style=flat" alt="denis-mrd" /> </p>
 
