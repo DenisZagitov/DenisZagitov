@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **DenisZagitov@gmail.com**
 
-- 📄 Know about my experiences [https://hh.ru/resume/629a2419ff0b6b27060039ed1f464661553238](https://hh.ru/resume/629a2419ff0b6b27060039ed1f464661553238)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/deniszagitov)
 
 - ⚡ Fun fact **In the youth I hitchhiked more than 50 000 km**
 
